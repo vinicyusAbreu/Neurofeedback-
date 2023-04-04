@@ -39,7 +39,7 @@ A ferramenta Microsoft Excel foi utilizada para gerar os gráficos a partir dos 
 No entanto, um único aluno apresentou picos maiores durante a execução de uma atividade em sala de aula, indicando que a atividade pode ter sido um desafio para o aluno. Os resultados que foram obtidos indicam a importância de se analisar diferentes pontos da aula para compreender a atividade cerebral dos alunos e sua ligação com o desempenho acadêmico.
 
 Realizando a junção da técnica de NeuroFeedback, software EEG Meditation e o Microsoft Excel, permitiu uma elaboração mais completa e detalhado da atividade cerebral de cada aluno durante a aula, desenvolvendo o conhecimento sobre a associação entre atividade cerebral e desempenho acadêmico. Com as informações obtidas, é plausível identificar oportunidades para otimizar o processo de ensino-aprendizagem e consequentemente melhorar o desempenho dos alunos.
-### 🖼 Exemplo da técnica empregada no experimento:
+### 🖼 Funcionamento do software no experimento:
 
 <p float="left">
   <img src="https://i.ibb.co/877gd16/experimento-1.jpg"/>
