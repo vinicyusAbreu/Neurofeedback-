@@ -42,8 +42,8 @@ Realizando a junção da técnica de NeuroFeedback, software EEG Meditation e o 
 ### 🖼 Funcionamento do software no experimento:
 
 <p float="left">
-  <img src="https://i.ibb.co/877gd16/experimento-1.jpg"/>
-  <img src="https://i.ibb.co/fxJDcRs/experimento-2.jpg" /> 
+  <img src="https://i.ibb.co/877gd16/experimento-1.jpg" width="550"/>
+  <img src="https://i.ibb.co/fxJDcRs/experimento-2.jpg" width="550"/> 
 </p>
 
 <p float="left">
