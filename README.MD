@@ -34,11 +34,11 @@ Para analisar a relação entre a atividade cerebral e desempenho acadêmico, fo
 
 A técnica utilizada para a realização da pesquisa chama-se Neurofeedback, que tem a função de medir picos de meditação e concentração. Nessa pesquisa foi realizada um experimento em três diferentes alunos, com a duração de 5 min cada experimento, na qual foi analisada as informações de meditação e concentração do aluno durante a aula. O aparelho utilizado na pesquisa chama-se Mind Link da BrainLink, e o software utilizado para coletar os dados foi o EEG Meditations.
 
-A biblioteca do Python utilizada para gerar os gráficos a partir dos dados coletados foi a matplotlib, que permitiu analisarmos graficamente os dados que foram coletados durante todo o experimento. Os resultados mostram quais alunos obtiveram mais picos de concentração e medicação durante a explicação do professor.
+A ferramenta excel foi utilizada para gerar os gráficos a partir dos dados coletados, isso permitiu analisarmos graficamente os dados que foram coletados durante todo o experimento. Os resultados mostram quais alunos obtiveram mais picos de concentração e medicação durante a explicação do professor.
 
 No entanto, um único aluno apresentou picos maiores durante a execução de uma atividade em sala de aula, indicando que a atividade pode ter sido um desafio para o aluno. Os resultados que foram obtidos indicam a importância de se analisar diferentes pontos da aula para compreender a atividade cerebral dos alunos e sua ligação com o desempenho acadêmico.
 
-Realizando a junção da técnica de NeuroFeedback, software EEG Meditation e a biblioteca do python Matplotlib, permitiu uma elaboração mais completa e detalhado da atividade cerebral de cada aluno durante a aula, desenvolvendo o conhecimento sobre a associação entre atividade cerebral e desempenho acadêmico. Com as informações obtidas, é plausível identificar oportunidades para otimizar o processo de ensino-aprendizagem e consequentemente melhorar o desempenho dos alunos.
+Realizando a junção da técnica de NeuroFeedback, software EEG Meditation e o excel, permitiu uma elaboração mais completa e detalhado da atividade cerebral de cada aluno durante a aula, desenvolvendo o conhecimento sobre a associação entre atividade cerebral e desempenho acadêmico. Com as informações obtidas, é plausível identificar oportunidades para otimizar o processo de ensino-aprendizagem e consequentemente melhorar o desempenho dos alunos.
 ### 🖼 Exemplo da técnica empregada no experimento:
 
 <p float="left">
