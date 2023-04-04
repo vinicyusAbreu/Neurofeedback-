@@ -39,6 +39,19 @@ A biblioteca do Python utilizada para gerar os gráficos a partir dos dados cole
 No entanto, um único aluno apresentou picos maiores durante a execução de uma atividade em sala de aula, indicando que a atividade pode ter sido um desafio para o aluno. Os resultados que foram obtidos indicam a importância de se analisar diferentes pontos da aula para compreender a atividade cerebral dos alunos e sua ligação com o desempenho acadêmico.
 
 Realizando a junção da técnica de NeuroFeedback, software EEG Meditation e a biblioteca do python Matplotlib, permitiu uma elaboração mais completa e detalhado da atividade cerebral de cada aluno durante a aula, desenvolvendo o conhecimento sobre a associação entre atividade cerebral e desempenho acadêmico. Com as informações obtidas, é plausível identificar oportunidades para otimizar o processo de ensino-aprendizagem e consequentemente melhorar o desempenho dos alunos.
+### 🖼 Exemplo da técnica empregada no experimento:
+
+<p float="left">
+  <img src="https://i.ibb.co/877gd16/experimento-1.jpg"  width="300"/>
+  <img src="https://i.ibb.co/fxJDcRs/experimento-2.jpg"  width="300"/> 
+</p>
+
+<p float="left">
+  <img src="https://i.ibb.co/5cLxzKR/experimento-3.jpg" width="300" />
+  <img src="https://i.ibb.co/v34Jkjy/experimento-4.jpg" width="300" /> 
+</p>
+
+
 
 ## Resultados
 
